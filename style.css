@@ -12,3 +12,7 @@
     justify-content: space-evenly;
     margin: 2rem;
 }
+
+.celsius-content, .fahrenheit-content {
+    text-align: center;
+}
