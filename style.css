@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+}
+
+.main-headers {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.inputs {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 2rem;
+}
