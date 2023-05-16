@@ -1,10 +1,17 @@
 * {
     margin: 0;
+    
 }
 
+body {
+    background-image: url(images/BG.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .main-headers {
     text-align: center;
     margin-bottom: 2rem;
+    color: rgb(190, 219, 132);
 }
 
 .inputs {
@@ -15,4 +22,5 @@
 
 .celsius-content, .fahrenheit-content {
     text-align: center;
+    color: rgb(190, 219, 132);
 }
